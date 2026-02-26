@@ -12,6 +12,6 @@ chmod +x backfill_artifacts_from_done.sh
 ```
 
 ## Source
-/data/data/com.termux/files/home/FacePrintPay/FacePrintPay/artifacts/agents/backfill_artifacts_from_done.sh
+/data/data/com.termux/files/home/cygnus_20260217_052348/extracted/Sovereign_AI_Runner_Stack_v1/agents/backfill_artifacts_from_done.sh
 
 Built by Constellation 25 — FacePrintPay / Cygel White
